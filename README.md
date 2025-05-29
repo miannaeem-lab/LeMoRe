@@ -17,7 +17,7 @@
 
 ## Figures
 
-![ ](figures/LeMoRe_Full_Diagram.png)
+Coming Soon
 
 ---
 
