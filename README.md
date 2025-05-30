@@ -21,14 +21,10 @@
 ![ ](figures/)
 
 
-## Results
+## Main Results
 
 ![ ](figures/Results1.PNG)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="figures/Results2.PNG" alt=" " width="45%" />
-  <img src="figures/Results3.PNG" alt=" " width="45%" />
-</div>
 
 
 ## Visual Results
