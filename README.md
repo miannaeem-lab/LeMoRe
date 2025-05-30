@@ -30,12 +30,12 @@
 ## Visual Results
 
 <div align="center">
-<img src="figures/LeMoRe_Visual_Results.png" alt=" " width="700" />
+<img src="figures/LeMoRe_Visual_Results.png" alt=" " width="600" />
 </div>
 
 ### More Results
 <div align="center">
-<img src="figures/LeMoRe_Visual_Results_Supplementray.png" alt=" " width="700" />
+<img src="figures/LeMoRe_Visual_Results_Supplementray.png" alt=" " width="600" />
 </div>
 
 
