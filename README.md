@@ -1,11 +1,12 @@
 # LeMoRe
 
-**Accepted at IEEE ICIP 2025**
+**Published at IEEE ICIP 2025**
 
 **Paper Title:** LeMoRe: Learn More Details for Lightweight Semantic Segmentation  
 **Authors:** Mian Muhammad Naeem Abid, Nancy Mehta, Zongwei Wu, Radu Timofte  
 **Conference:** IEEE International Conference on Image Processing (ICIP), 2025  
-**Paper Link:** https://arxiv.org/abs/2505.23093
+**Paper Link:** https://ieeexplore.ieee.org/document/11084523  
+**arXiv Paper Link:** https://arxiv.org/abs/2505.23093
 
 
 
@@ -40,21 +41,14 @@
 
 
 
-
-## Code
-
-Coming Soon
-
-
-
 ## Citation
 ```plaintext
-@misc{abid2025lemorelearndetailslightweight,
-      title={LeMoRe: Learn More Details for Lightweight Semantic Segmentation}, 
-      author={Mian Muhammad Naeem Abid and Nancy Mehta and Zongwei Wu and Radu Timofte},
-      year={2025},
-      eprint={2505.23093},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.23093}, 
+@INPROCEEDINGS{11084523,
+  author={Naeem Abid, Mian Muhammad and Mehta, Nancy and Wu, Zongwei and Timofte, Radu},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
+  title={LeMoRe: Learn More Details for Lightweight Semantic Segmentation}, 
+  year={2025},
+  pages={2163-2168},
+  keywords={Representation learning;Computer vision;Semantic segmentation;Computational modeling;Memory management;Transformers;Computational efficiency;Complexity theory;Convolutional neural networks;Optimization;Lightweight Segmentation;Vision Transformers;Convolutional Neural Networks;Cartesian Encoder;Nested Attention},
+  doi={10.1109/ICIP55913.2025.11084523}
 }
